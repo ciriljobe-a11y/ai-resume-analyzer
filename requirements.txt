@@ -16,7 +16,7 @@ scikit-learn==1.3.2
 
 # Exports
 ReportLab==4.0.7
-openpyxl==3.10.10
+openpyxl==3.1.5
 
 # Utilities
 python-dotenv==1.0.0
